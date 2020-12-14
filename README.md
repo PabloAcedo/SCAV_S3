@@ -6,5 +6,16 @@ The material folder is not in the repository due to the size of the BBB video, i
 
 Thank you.
 
-#Exercise 2 answer:
+## Exercise 2 answer
+
+In the new mosaic video I only use the videos of 720p resolution, for each codec we have these different bitrates:
+
+- VP8: 
+- VP9:
+- H.256:
+- AV1:
+
+
+
+
 
